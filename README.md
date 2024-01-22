@@ -3,6 +3,8 @@
 
 ![image](https://github.com/ozgeerkskn/ReactAdminDashboard/assets/105421946/30d12576-ba36-4e64-a0c7-ca8c90a89cb6)
 
+![image](https://github.com/ozgeerkskn/ReactAdminDashboard/assets/105421946/1f6a7ba4-0e07-405d-980e-cb8199fbc33f)
+
 
 
 ReactAdminDashboard is a powerful React-based dashboard application. It offers you a wide range of data analysis and monitoring with its user-friendly interface and rich visualizations. 
